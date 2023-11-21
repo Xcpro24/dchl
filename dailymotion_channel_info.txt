@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Tester | | |
-https://www.dailymotion.com/video/x8chy4s
+https://www.dailymotion.com/video/x6p1gw7
